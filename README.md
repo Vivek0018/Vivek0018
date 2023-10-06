@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vivek43143@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17ZsIDwPH3QHpwTNIucdbhM6PD03YDKay/view?usp=drivesdk](https://drive.google.com/file/d/17ZsIDwPH3QHpwTNIucdbhM6PD03YDKay/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zT4F9mslC718P5MlSiEH5qnyEeczdhpg/view?usp=sharing]
 
 - ⚡ Fun fact **Addicted to Anime**
 
