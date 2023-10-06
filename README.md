@@ -23,12 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamvivek888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvivek888" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-kavala-70728b26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-kavala-70728b26a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/vivek0018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vivek0018" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/vivek43143?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vivek43143?hr_r=1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/vivek0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/vivek0018" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@vivek43143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@vivek43143" height="30" width="40" /></a>
+<a href="https://twitter.com/VivekKavala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvivek888" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivek-kavala-70728b26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-kavala-70728b26a" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vivek0018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vivek0018" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vivek43143?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vivek43143?hr_r=1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vivek0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/vivek0018" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@vivek43143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@vivek43143" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
